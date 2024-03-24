@@ -5,9 +5,14 @@
 
 .item {
     background: rgba(62, 68, 193, 0.94);
+    padding: 5px;
 }
 
 .item a {
     color: #fff;
     text-decoration: none;
+}
+
+.itemLink:active, .itemLink:focus {
+    background: #5a1982;
 }

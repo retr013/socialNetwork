@@ -1,0 +1,13 @@
+.picB {
+    overflow: hidden;
+    height: 200px;
+}
+
+.picBimg {
+    width: 100%;
+    object-fit: contain;
+}
+
+.post {
+    padding: 10px;
+}
